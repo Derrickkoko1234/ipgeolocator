@@ -1,0 +1,27 @@
+.main {
+    margin: 0;
+    padding: 50px 0;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.top-header {
+    background: #00ffaa;
+    text-align: center;
+    padding: 7px;
+}
+
+.top-header h1 {
+    font-weight: bold;
+}
+
+.main-body {
+    padding: 20px;
+}
+
+.search-btn {
+    background: #00ffaa;
+    font-weight: bold;
+}
